@@ -75,6 +75,18 @@ function Search() {
           ))}
         </div>
       )}
+
+      <div className='border-[1px] border-gray-500 shadow-xl rounded-xl mt-10 px-5 py-3'>
+        <h1 className='font-neuton text-5xl font-bold text-green'>hello</h1>
+        <p className='font-poppins text-[0.8rem] mt-2'>[ həˈloʊ ]</p>
+        <h2 className='font-neuton text-2xl'>noun</h2>  
+        <ol>
+          <li>asdl;kfalsdfkj</li>
+          <li>asdl;kfalsdfkj</li>
+          <li>asdl;kfalsdfkj</li>
+
+        </ol>
+      </div>
     </div>
   );
 }
